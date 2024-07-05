@@ -37,7 +37,7 @@ Validation Loss: 0.0759
 Test Loss: 0.1141
 
 # Acknowledgments
-The dataset used in this project was obtained from Kaggle.
+The dataset used in this project was obtained from https://github.com/RishitToteja/Chext-X-ray-Images-Data-Set.git.
 
 This project was executed in the Google Colab environment, leveraging cloud-based computational resources.
 
